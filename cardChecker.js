@@ -66,3 +66,4 @@ const idInvalidCardCompanies = nestedArr => {
 }
 
 console.log(idInvalidCardCompanies(invalidCards));
+// random line
